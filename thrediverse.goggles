@@ -4,6 +4,6 @@
 ! author: Gabino3503
 ! avatar: #9244e0
 
-$boost=1,site=beehaw.org
-$boost=1,site=kbin.social
-$boost=1,site=programming.dev
+$boost=3,site=beehaw.org
+$boost=3,site=kbin.social
+$boost=3,site=programming.dev
